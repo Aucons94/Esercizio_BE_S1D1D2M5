@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_s1d1m5\\esercizio_s1d1m5\\controllers\\dipendenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|solutionrelative:esercizio_s1d1m5\\controllers\\dipendenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\esercizio_s1d1m5\\models\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|solutionrelative:esercizio_s1d1m5\\models\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\esercizio_s1d1m5\\views\\dipendente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F631D2BB-8433-4845-8835-F63780955125}|Esercizio_S1D1M5\\Esercizio_S1D1M5.csproj|solutionrelative:esercizio_s1d1m5\\views\\dipendente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Views\\Dipendente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Esercizio_S1D1M5\\Views\\Dipendente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Views\\Dipendente\\Index.cshtml",
+              "RelativeToolTip": "Esercizio_S1D1M5\\Views\\Dipendente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T14:35:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DipendentiController.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Controllers\\DipendentiController.cs",
+              "RelativeDocumentMoniker": "Esercizio_S1D1M5\\Controllers\\DipendentiController.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Controllers\\DipendentiController.cs",
+              "RelativeToolTip": "Esercizio_S1D1M5\\Controllers\\DipendentiController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwEEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:26:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Models\\Dipendente.cs",
+              "RelativeDocumentMoniker": "Esercizio_S1D1M5\\Models\\Dipendente.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_S1D1M5\\Esercizio_S1D1M5\\Models\\Dipendente.cs",
+              "RelativeToolTip": "Esercizio_S1D1M5\\Models\\Dipendente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:33:22.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

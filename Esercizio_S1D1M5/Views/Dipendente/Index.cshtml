@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Esercizio_S1D1M5.Models.Dipendente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cognome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Indirizzo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodiceFiscale)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Coniugato)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumeroFigli)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mansione)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (Esercizio_S1D1M5.Models.Dipendente dipendente in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.Cognome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.Indirizzo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.CodiceFiscale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.Coniugato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.NumeroFigli)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => dipendente.Mansione)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div class="d-flex flex-column justify-content-center align-items-center">
+        @Html.ActionLink("Vai alla lista dei dipendenti", "Index", "Dipendente", null, new { @class = "btn btn-primary mb-3" })
+        @Html.ActionLink("Vai alla lista dei pagamenti", "Index", "Pagamento", null, new { @class = "btn btn-primary" })
+    </div>
+</main>
